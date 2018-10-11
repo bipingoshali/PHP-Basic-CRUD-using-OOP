@@ -3,6 +3,7 @@ include "includes/header_a.php";
 ?>
 
 <h1 class="page-header">Car</h1>
+
 <?php
     include "class/car.php";
     $car = new car();
